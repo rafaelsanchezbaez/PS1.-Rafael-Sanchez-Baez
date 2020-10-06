@@ -1,0 +1,196 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+.home>a{
+    float: left;
+    padding-left: 1em;
+    font-family: 'Lato', sans-serif;
+    font-size: x-large;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    text-decoration: none;
+    color: black;
+}
+.home{
+    padding-left: 35%;
+}
+.inicio{
+height: 500px;
+width: 50%;
+float: left;
+background-color:#E8E8E8;
+font-family:'Lato', sans-serif;
+text-align: center;
+
+}
+.foto{
+float: right;
+height: 500px;
+width: 50%;
+
+}
+.enca{
+    height: 400px;
+    width: 100%;
+    background-color: #39D8D0;
+}
+.redes{
+    height: 250px;
+    width: 100%;
+    text-align: center;
+    background-color:#F66E69; 
+}
+.redes>a>img{
+padding-top: 1em;
+}
+
+.acerca{
+    float: left;
+    height:100px;
+    width: 25%;
+    background-color:#8C52FF;
+   
+}
+.acerca>h1{
+    padding-left: 1em;
+    color:white
+}
+.acercamenu{
+    float: right;
+    height:100px ;
+    width: 70%;
+    
+}
+.home2{
+    padding-left: 55%;
+}
+.home2>a{
+    float: left;
+    padding-left: 1em;
+    font-family: 'Lato', sans-serif;
+    font-size: x-large;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    text-decoration: none;
+    color: black;
+}
+.acercatext{
+width: 30%;
+height: 550px;
+float: left;
+text-align: center;
+font-family:'Lato', sans-serif;
+font-size: x-large;
+padding-top: 1em;
+}
+
+.acercaimg{
+width: 70%;
+height: 550px;
+float: right;
+}
+.portamenu{
+   width: 70%;
+   height: 100px;
+   float: left;
+}
+.home3>a{
+    float: left;
+    padding-left: 1em;
+    font-family: 'Lato', sans-serif;
+    font-size: x-large;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    text-decoration: none;
+    color: black;
+}
+.portafol{
+    float: right;
+    width: 30%;
+    height: 100px;
+    background-color:  #8C52FF;
+    
+}
+.portafol>h1{
+padding-left: 1em;
+color: white;
+}
+article{
+    float: left;
+    width: 30%;
+    height: 300px;
+    margin-top: .5em;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+  article>p{
+      padding-bottom:  1em;
+      text-align: center;
+  }  
+  .contacto{
+      float: left;
+      width: 30%;
+      height: 100px;
+      background-color: #8C52FF;
+  }
+  .menucontacto{
+      float: right;
+      width: 70%;
+      height: 100px;
+  }
+  .contacto>h1{
+    color: white;
+    padding-left: 1em;
+  }
+  .home4>a{
+    float: left;
+    padding-left: 1em;
+    font-family: 'Lato', sans-serif;
+    font-size: x-large;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    text-decoration: none;
+    color: black;
+  }
+  .home4{
+      padding-left: 50%;
+  }
+  .primero{
+    float: left;
+    width: 50%;
+    height: 550px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    
+  }
+  .segundo{
+     float: left; 
+     width: 50%;
+     height: 550px;
+    
+  }
+ .lab{
+    font-family: 'Lato', sans-serif;
+    font-size: xx-large;
+    margin: 1em;
+ }
+ .con{
+     font-size: xx-large;
+     margin-top: 1em;
+     margin-left: 2em;
+ }
+ .bot{
+     font-size: xx-large;
+     float: right;
+     margin-right: 2em;
+     margin-top: 1em;
+ }
+ .con1{
+    font-size: xx-large;
+    margin-top: 1em;
+    margin-left: 1em;
+ }
+ 
